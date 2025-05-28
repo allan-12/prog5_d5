@@ -128,4 +128,8 @@ Pour développer ce système en Java :
 4. Implémenter une classe contrôleur principale pour orchestrer le flux opérationnel.
 5. Tester chaque module indépendamment, puis effectuer des tests d’intégration pour vérifier le fonctionnement global.
 
-Ce README offre une vue d’ensemble de l’architecture du système de machine à café. Les détails d’implémentation dépendront des besoins spécifiques, comme le type d’interface utilisateur (console, graphique) ou l’intégration matérielle.
+Ce README offre une vue d’ensemble de l’architecture du système de machine à café. Les détails d’implémentation dépendront des besoins spécifiques, comme le type d’interface utilisateur (console, graphique) ou l’intégration matérielle.~~
+
+
+https://github.com/Safidy-Michael/prog-5-d5-Algo
+
